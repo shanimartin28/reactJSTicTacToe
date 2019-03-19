@@ -1,0 +1,42 @@
+https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
+
+All the below is done in comand prompt:
+
+1. Start with  downloading visual studio code to C:/drive
+
+2. Install Node.js JavaScript runtime
+
+3.
+Then move to the source code folder
+with cd
+
+4. Use to create app
+create-react-app my-app
+
+After all teh files are installed 
+
+5.
+
+cd my-app
+npm start
+
+cd my-app
+code .
+
+Meaning now starting visual studio code in that source code location.
+
+
+Later this can be done in terminal window in Visual Studio Code
+
+
+http://localhost:3000/
+
+
+
+
+
+
+
+
+
+
